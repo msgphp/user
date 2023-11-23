@@ -1,3 +1,11 @@
+# NOT ACTIVELY SUPPORTED ANY MORE!!
+
+msgphp/* repositories are not actively developed/supported anymore.
+
+**Use in production on your own risks.**
+
+If you want to do some hotfixes - please do PR directly in target repository instead of previous msgphp/msgphp  monorepository
+
 # User Domain
 
 A domain layer providing basic user management.
@@ -18,8 +26,6 @@ composer require msgphp/user
 - Get support on [Symfony's Slack `#msgphp` channel](https://symfony.com/slack-invite) or [raise an issue](https://github.com/msgphp/msgphp/issues/new)
 
 # Contributing
-
-This repository is **READ ONLY**. Issues and pull requests should be submitted in the [main development repository](https://github.com/msgphp/msgphp).
 
 [packagist]: https://packagist.org/packages/msgphp/user
 [packagist:img]: https://img.shields.io/packagist/v/msgphp/user.svg?style=flat-square
